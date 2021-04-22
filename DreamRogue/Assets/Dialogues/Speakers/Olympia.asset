@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf36ecd0df39dac439edbdabef7c045a, type: 3}
+  m_Name: Olympia
+  m_EditorClassIdentifier: 
+  moodSprites:
+  - mood: 0
+    sprite: {fileID: 21300000, guid: aef5e640fc474b34bb05f692e6276693, type: 3}
+  - mood: 1
+    sprite: {fileID: 21300000, guid: aef5e640fc474b34bb05f692e6276693, type: 3}
+  - mood: 2
+    sprite: {fileID: 0}
+  - mood: 3
+    sprite: {fileID: 0}
+  - mood: 4
+    sprite: {fileID: 0}
+  - mood: 5
+    sprite: {fileID: 0}
+  speakerName: Olympia
+  speakerVoice: {fileID: 11400000, guid: 93e55f26acde93d4b92434423569a684, type: 2}
+  speakerPitch: 1
